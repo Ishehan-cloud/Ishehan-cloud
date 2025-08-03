@@ -16,7 +16,7 @@
 - 🔭 **Currently working on:** Shop Management System
 - 🌱 Learning: React.js, Node.js, Express, MongoDB
 - 🤝 Looking to collaborate on web development and real-world projects
-- 📫 Reach me: **imankashehan@gmail.com** (replace with your real email)
+- 📫 Reach me: **imankashehan629@gmail.com** (replace with your real email)
 
 <br clear="both"/>
 
