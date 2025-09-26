@@ -20,16 +20,19 @@
 
 <p align="center">
   <a href="https://github.com/Ishehan-cloud/github-readme-streak-stats">
-    <img title="🔥 Streak Stats" alt="Imanka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishehan-cloud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 Streak Stats" alt="Imanka's streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Ishehan-cloud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ishehan-cloud/github-readme-stats">
-    <img alt="Imanka Shehan's GitHub Stats" src="https://readme-stats.vercel.app/api?username=Ishehan-cloud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img alt="Imanka Shehan's GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Ishehan-cloud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
   <a href="https://github.com/Ishehan-cloud/github-readme-stats">
-    <img alt="Imanka Shehan's Top Languages" src="https://readme-stats.vercel.app/api/top-langs/?username=Ishehan-cloud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img alt="Imanka Shehan's Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishehan-cloud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
@@ -70,9 +73,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-   <!-- Added C programming icon -->
   <a href="https://www.learn-c.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-</p>
 </p>
 
 ---
