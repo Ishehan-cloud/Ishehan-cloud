@@ -189,6 +189,5 @@ class Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**Made with 💙 by Imanka Shehan**
-
+⭐ From Ishehan-cloud |  Thank you for visiting!
 </div>
