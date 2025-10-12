@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Tomorrow's+Solutions+Today)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishehan-cloud&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ishehan-cloud?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/Ishehan-cloud?label=Stars&style=for-the-badge&color=00d9ff&logo=github" alt="stars" />
 </p>
