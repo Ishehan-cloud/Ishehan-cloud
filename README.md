@@ -17,7 +17,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```javascript
 const imanka = {
   role: "Full Stack Developer",
@@ -76,6 +75,18 @@ const imanka = {
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishehan-cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishehan-cloud/Ishehan-cloud/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishehan-cloud/Ishehan-cloud/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishehan-cloud/Ishehan-cloud/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
